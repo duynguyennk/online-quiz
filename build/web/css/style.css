@@ -1,0 +1,172 @@
+.success {
+    color: blue;
+}
+
+.failed {
+    color: red;
+}
+
+.userName {
+    color: blue;
+}
+
+#loginFornTitle {
+    color: #100078;
+    font-weight: bold;
+}
+
+.fieldLabel {
+    color: #2A577E;
+}
+
+a {
+    text-decoration: none;
+    cursor: default;
+    color: #2A577E;
+}
+
+#timeDisplay {
+    color: red;
+}
+
+.tableHeading {
+    color: #97D2FF;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
+
+body {
+    height: 100%;
+    background-image: url("../images/bg.jpg");
+    text-align: center;
+    color: #2A577E;
+    font-family: sans-serif;
+}
+
+#main-panel {
+    display: inline-block;
+    width: 550px;
+    margin-top: 5%;
+    background-color: #FFFFFF;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#nav-bar {
+    background-image: url("../images/menu_bg.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 1px;
+}
+
+#nav-bar > ul {
+    text-align: center;
+}
+
+#nav-bar > ul > li {
+    margin-right: 12px;
+    color: #61574C !important;
+}
+
+#nav-bar > ul > li > a {
+    text-decoration: none;
+    font-weight: bold;
+    cursor: default;
+    color: #61574C !important;
+}
+
+#main-content {
+    text-align: left;
+    padding: 5px;
+    padding-bottom: 60px;
+    font-size: 16px !important;
+}
+
+table {
+    width: auto;
+}
+
+#quizContainer {
+    padding-right: 150px;
+}
+
+.hidden {
+    display: none;
+    visibility: hidden;
+}
+
+#TimeSpan {
+    display: block;
+    width: 100%;
+    text-align: right;
+}
+
+#next {
+    float: right;
+}
+
+.quizinput {
+    width: 100%;
+    height: 40px;
+    resize: none;
+}
+
+#content {
+    height: 50px !important;
+}
+
+
+td {
+    vertical-align: top;
+    text-align: left;
+}
+
+
+th {
+    color: blue;
+}
+td {
+    color: #3C627B;
+}
+
+.blue {
+    color: blue;
+}
+
+.labelCol {
+    width: 60%;
+}
+
+.fieldCol {
+    width: 25%;
+}
+
+.display-none {
+    display: none;
+}
+
+.paging
+{
+    margin-top: 10px;
+    text-align: center;
+}
+.paging a{
+    padding: 2px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+}
